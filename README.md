@@ -4,7 +4,7 @@ Analytics Lead. Outside of work, I build things — iOS apps, CLI tools, games, 
 
 
 
-## Current Projects
+## Projects
 
 ### Products
 
