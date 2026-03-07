@@ -11,7 +11,7 @@ Analytics Lead. Outside of work, I build things — iOS apps, CLI tools, games, 
 - [**Lyrate (Beta)**](https://lyrate.ishaanrajiv.com/) - An iOS eBook reader
 - [**Thought Stream (Alpha)**](https://testflight.apple.com/join/dkzhQTU8) - An iOS app to organize thoughts - notes, reminders etc. using AI
 
-### Open Source Projects 
+### Recent Open Source Projects 
 <sub>Primarily for Learning</sub>
 
 - [**JSON Workbench**](https://github.com/ishaanrajiv/json-workbench) - browser-based workspace for validating, formatting, exploring, and diffing JSON
