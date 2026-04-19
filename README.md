@@ -11,9 +11,7 @@ Analytics Lead. Outside of work, I build things — iOS apps, CLI tools, games, 
 - [**Lyrate (Beta)**](https://lyrate.ishaanrajiv.com/) - An iOS eBook reader
 - [**Thought Stream (Alpha)**](https://testflight.apple.com/join/dkzhQTU8) - An iOS app to organize thoughts - notes, reminders etc. using AI
 
-### Recent Open Source Projects 
-<sub>Primarily for Learning</sub>
-
+### Learning 
 - [**JSON Workbench**](https://github.com/ishaanrajiv/json-workbench) - browser-based workspace for validating, formatting, exploring, and diffing JSON
 - [**ePub to MD**](https://github.com/ishaanrajiv/epub-to-md) - Rust CLI tool to convert EPUB files to Markdown format
 - [**SQLite Offline Dictionary**](https://github.com/ishaanrajiv/sqlite-offline-dictionary) - Offline Dictionary in SQLite, for offline applications like iOS apps and more
