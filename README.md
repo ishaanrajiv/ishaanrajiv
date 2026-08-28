@@ -1,8 +1,8 @@
-Analytics Lead. Outside of work, I build things — iOS apps, CLI tools, games, and web experiments.
+Primary - Data Science and Analytics. 
+
+Outside of work, I like to build things.
 
 [Link](https://github.com/ishaanrajiv/personal-website) to my website.
-
-
 
 ## Projects
 
